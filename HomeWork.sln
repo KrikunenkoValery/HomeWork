@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HomeWork", "HomeWork.vcxproj", "{00E01281-67A3-4708-A1DD-3CF554E7728B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00E01281-67A3-4708-A1DD-3CF554E7728B}.Debug|x64.ActiveCfg = Debug|x64
+		{00E01281-67A3-4708-A1DD-3CF554E7728B}.Debug|x64.Build.0 = Debug|x64
+		{00E01281-67A3-4708-A1DD-3CF554E7728B}.Debug|x86.ActiveCfg = Debug|Win32
+		{00E01281-67A3-4708-A1DD-3CF554E7728B}.Debug|x86.Build.0 = Debug|Win32
+		{00E01281-67A3-4708-A1DD-3CF554E7728B}.Release|x64.ActiveCfg = Release|x64
+		{00E01281-67A3-4708-A1DD-3CF554E7728B}.Release|x64.Build.0 = Release|x64
+		{00E01281-67A3-4708-A1DD-3CF554E7728B}.Release|x86.ActiveCfg = Release|Win32
+		{00E01281-67A3-4708-A1DD-3CF554E7728B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4219873-EE26-4AF0-877C-E641DC83349B}
+	EndGlobalSection
+EndGlobal
